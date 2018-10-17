@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Adafruit Feather M0 Adalogger")(type KiCad)(uri "$(KIPRJMOD)/Adafruit Feather M0 Adalogger.pretty")(options "")(descr ""))
+)
